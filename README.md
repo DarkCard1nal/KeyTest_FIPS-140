@@ -3,7 +3,7 @@ C++ Module (library) for for testing FIPS-140 cryptography keys.
 ____
 # installation:
 
-`#include "SPBlockSynEncrypt.h"`
+`#include "KeyTest_FIPS140.h"`
 
 # Opportunities:
 
